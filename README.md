@@ -1,9 +1,9 @@
 # 💫 About Me:
-A software developer with a passion for science and math.<br>Shoot me an Instagram or add me on Linkedin :)
+A software developer with a passion for science and math.<br>Shoot me an Instagram :)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sav1tar46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ejdererdogan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sav1tar46)  
 
 
 # 💻 Tech Stack:
