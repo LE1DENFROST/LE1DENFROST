@@ -1,10 +1,10 @@
 # 💫 About Me:
-💻 Node.js & Nextcord Enthusiast<br>
-📊 Data Juggler with Pandas and Numpy<br>
-🌐 Web Magician with HTML, CSS, JS<br>
-🏃‍♂️  Sports Fanatic & Tech Buff<br>
-🔍Science and Math Geek on the Loose!<br>
-
+💻 𝐍𝐨𝐝𝐞.𝐣𝐬 & 𝐍𝐞𝐱𝐭𝐜𝐨𝐫𝐝 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭<br>
+📊 𝐃𝐚𝐭𝐚 𝐉𝐮𝐠𝐠𝐥𝐞𝐫 𝐰𝐢𝐭𝐡 𝐏𝐚𝐧𝐝𝐚𝐬 𝐚𝐧𝐝 𝐍𝐮𝐦𝐩𝐲<br>
+🌐 𝐖𝐞𝐛 𝐌𝐚𝐠𝐢𝐜𝐢𝐚𝐧 𝐰𝐢𝐭𝐡 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐒<br>
+🏃‍♂️  𝐒𝐩𝐨𝐫𝐭𝐬 𝐅𝐚𝐧𝐚𝐭𝐢𝐜 & 𝐓𝐞𝐜𝐡 𝐁𝐮𝐟𝐟<br>
+🔍𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐭𝐡 𝐆𝐞𝐞𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐋𝐨𝐨𝐬𝐞!<br>
+   
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Artificial_Man666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sav1tar46)  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31xiq35j7ol6hxt7xnl4y6livncy) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/nYRy9Vy8Mf)
