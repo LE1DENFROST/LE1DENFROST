@@ -2,7 +2,7 @@
 💻 Node.js & Nextcord Enthusiast<br>
 📊 Data Juggler with Pandas and Numpy<br>
 🌐 Web Magician with HTML, CSS, JS<br>
-🏃‍♂️ Sports Fanatic & Tech Buff<br>
+🏃‍♂️  Sports Fanatic & Tech Buff<br>
 🔍 Science and Math Geek on the Loose!<br>
 
 
