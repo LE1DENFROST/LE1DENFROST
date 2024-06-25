@@ -1,10 +1,9 @@
 # 💫 About Me:
-🌍 Geomatic Engineer & Software Developer<br>
-💻 Master of Node.js, Nextcord<br>
-📊 Data wizard with Pandas and Numpy<br>
-🌐 Web sorcerer with HTML, CSS, JS<br>
-🏃‍♂️ Sports addict, tech enthusiast<br>
-🔍 Science and math geek on the loose!<br>
+💻 Node.js & Nextcord Enthusiast<br>
+📊 Data Juggler with Pandas and Numpy<br>
+🌐 Web Magician with HTML, CSS, JS<br>
+🏃‍♂️ Sports Fanatic & Tech Buff<br>
+🔍 Science and Math Geek on the Loose!<br>
 
 
 ## 🌐 Socials:
