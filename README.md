@@ -1,5 +1,10 @@
 # 💫 About Me:
-A software developer with a passion for science and math.<br>Shoot me an Instagram :)
+🌍 Geomatic Engineer & Software Developer
+💻 Master of Node.js, Nextcord
+📊 Data wizard with Pandas and Numpy
+🌐 Web sorcerer with HTML, CSS, JS
+🏃‍♂️ Sports addict, tech enthusiast
+🔍 Science and math geek on the loose!
 
 
 ## 🌐 Socials:
