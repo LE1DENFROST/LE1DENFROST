@@ -1,9 +1,10 @@
 # 💫 About Me:
-💻 𝙽𝚘𝚍𝚎.𝚓𝚜 & 𝙽𝚎𝚡𝚝𝚌𝚘𝚛𝚍 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝<br>
-📊 𝙳𝚊𝚝𝚊 𝙹𝚞𝚐𝚐𝚕𝚎𝚛 𝚠𝚒𝚝𝚑 𝙿𝚊𝚗𝚍𝚊𝚜 𝚊𝚗𝚍 𝙽𝚞𝚖𝚙𝚢<br>
-🌐 𝚆𝚎𝚋 𝙼𝚊𝚐𝚒𝚌𝚒𝚊𝚗 𝚠𝚒𝚝𝚑 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂, 𝙹𝚂<br>
-🏃‍♂️  𝚂𝚙𝚘𝚛𝚝𝚜 𝙵𝚊𝚗𝚊𝚝𝚒𝚌 & 𝚃𝚎𝚌𝚑 𝙱𝚞𝚏𝚏<br>
-🔍𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙼𝚊𝚝𝚑 𝙶𝚎𝚎𝚔 𝚘𝚗 𝚝𝚑𝚎 𝙻𝚘𝚘𝚜𝚎!<br>
+💻 Backend Developer: Crafting efficient APIs and systems with Node.js, Flask, WebSocket, and FastAPI.
+📊 Data Wrangler: Transforming data into insights using Pandas, NumPy, and SQL.
+🌐 Web Artisan: Building immersive user interfaces with HTML, CSS, JavaScript, and React.
+☁️ Cloud Enthusiast: Leveraging the power of Google Cloud and Azure for scalable solutions.
+🏃‍♂️ Tech & Sports Buff: A perfect balance of innovation and an active lifestyle.
+🔬 Science & Math Geek: Always on the hunt for logical challenges and discoveries.
    
    
 ## 🌐 Socials:
