@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hey there! I’m a backend developer who loves conjuring high-performance APIs using Flask, FastAPI, and WebSocket—because, hey, real-time data should be really exciting. When not taming data with Pandas, NumPy, and SQL, I’m busy crafting delightful user experiences on the front end with HTML, CSS, JavaScript, and React. I also enjoy playing in the clouds (the digital kind, of course) with Google Cloud and Azure, building scalable solutions that won’t flinch under pressure. <br>
+And yes, I do take breaks from code! Whether it’s lacing up for a run or nerding out over math and science puzzles, I keep the gears turning both mentally and physically. If you’re up for a good laugh, a coding adventure, or just an excuse to swap developer memes—let’s connect! <br>
+Areas of Specialization:
 💻 Backend Developer: Specializing in Flask, FastAPI, and WebSockets <br>
 📊 Data Wrangler: Turning data into insights with Pandas, NumPy, and SQL  <br>
 🌐 Frontend Enthusiast: Crafting interfaces in HTML, CSS, JavaScript, and React  <br>
