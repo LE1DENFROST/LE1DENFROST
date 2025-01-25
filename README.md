@@ -1,15 +1,6 @@
 # 💫 About Me: <br>
 👋 Hey there! I’m a backend developer who loves conjuring high-performance APIs using Flask, FastAPI, and WebSocket—because, hey, real-time data should be really exciting. When not taming data with Pandas, NumPy, and SQL, I’m busy crafting delightful user experiences on the front end with HTML, CSS, JavaScript, and React. I also enjoy playing in the clouds (the digital kind, of course) with Google Cloud and Azure, building scalable solutions that won’t flinch under pressure. <br> <br>
 💪 And yes, I do take breaks from code! Whether it’s lacing up for a run or nerding out over math and science puzzles, I keep the gears turning both mentally and physically. If you’re up for a good laugh, a coding adventure, or just an excuse to swap developer memes—let’s connect! <br> <br>
-<strong>Areas of Specialization:</strong> <br>  <br>
-💻 <strong>Backend Developer:</strong> Specializing in Flask, FastAPI, and WebSockets <br>
-📊 <strong>Data Wrangler:</strong> Turning data into insights with Pandas, NumPy, and SQL  <br>
-🌐 <strong>Frontend Enthusiast:</strong> Crafting interfaces in HTML, CSS, JavaScript, and React  <br>
-☁️ <strong>Cloud Explorer:</strong> Harnessing the power of Google Cloud & Azure  <br>
-🏃‍♂️ <strong>Tech & Sports Buff:</strong> A perfect balance of innovation and an active lifestyle.  <br>
-🔬 <strong>Science & Math Geek:</strong> Always on the hunt for logical challenges and discoveries.  <br>
-   
-   
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Artificial_Man666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sav1tar46)  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31xiq35j7ol6hxt7xnl4y6livncy) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/nYRy9Vy8Mf)
 
