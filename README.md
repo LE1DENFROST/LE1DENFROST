@@ -1,13 +1,13 @@
 # 💫 About Me: <br>
 👋 Hey there! I’m a backend developer who loves conjuring high-performance APIs using Flask, FastAPI, and WebSocket—because, hey, real-time data should be really exciting. When not taming data with Pandas, NumPy, and SQL, I’m busy crafting delightful user experiences on the front end with HTML, CSS, JavaScript, and React. I also enjoy playing in the clouds (the digital kind, of course) with Google Cloud and Azure, building scalable solutions that won’t flinch under pressure. <br> <br>
 💪 And yes, I do take breaks from code! Whether it’s lacing up for a run or nerding out over math and science puzzles, I keep the gears turning both mentally and physically. If you’re up for a good laugh, a coding adventure, or just an excuse to swap developer memes—let’s connect! <br> <br>
-<strong>Areas of Specialization:</strong> <br>
-💻 Backend Developer: Specializing in Flask, FastAPI, and WebSockets <br>
-📊 Data Wrangler: Turning data into insights with Pandas, NumPy, and SQL  <br>
-🌐 Frontend Enthusiast: Crafting interfaces in HTML, CSS, JavaScript, and React  <br>
-☁️ Cloud Explorer: Harnessing the power of Google Cloud & Azure  <br>
-🏃‍♂️ Tech & Sports Buff: A perfect balance of innovation and an active lifestyle.  <br>
-🔬 Science & Math Geek: Always on the hunt for logical challenges and discoveries.  <br>
+<strong>Areas of Specialization:</strong> <br>  <br>
+💻 <strong>Backend Developer:</strong> Specializing in Flask, FastAPI, and WebSockets <br>
+📊 <strong>Data Wrangler:</strong> Turning data into insights with Pandas, NumPy, and SQL  <br>
+🌐 <strong>Frontend Enthusiast:</strong> Crafting interfaces in HTML, CSS, JavaScript, and React  <br>
+☁️ <strong>Cloud Explorer:</strong> Harnessing the power of Google Cloud & Azure  <br>
+🏃‍♂️ <strong>Tech & Sports Buff:</strong> A perfect balance of innovation and an active lifestyle.  <br>
+🔬 <strong>Science & Math Geek:</strong> Always on the hunt for logical challenges and discoveries.  <br>
    
    
 ## 🌐 Socials:
