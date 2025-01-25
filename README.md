@@ -1,10 +1,10 @@
 # 💫 About Me:
-💻 Backend Developer: Crafting efficient APIs and systems with Node.js, Flask, WebSocket, and FastAPI.
-📊 Data Wrangler: Transforming data into insights using Pandas, NumPy, and SQL.
-🌐 Web Artisan: Building immersive user interfaces with HTML, CSS, JavaScript, and React.
-☁️ Cloud Enthusiast: Leveraging the power of Google Cloud and Azure for scalable solutions.
-🏃‍♂️ Tech & Sports Buff: A perfect balance of innovation and an active lifestyle.
-🔬 Science & Math Geek: Always on the hunt for logical challenges and discoveries.
+💻 Backend Developer: Specializing in Flask, FastAPI, and WebSockets <br>
+📊 Data Wrangler: Turning data into insights with Pandas, NumPy, and SQL  <br>
+🌐 Frontend Enthusiast: Crafting interfaces in HTML, CSS, JavaScript, and React  <br>
+☁️ Cloud Explorer: Harnessing the power of Google Cloud & Azure  <br>
+🏃‍♂️ Tech & Sports Buff: A perfect balance of innovation and an active lifestyle.  <br>
+🔬 Science & Math Geek: Always on the hunt for logical challenges and discoveries.  <br>
    
    
 ## 🌐 Socials:
