@@ -77,8 +77,8 @@ const ejder = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LE1DENFROST&show_icons=true&theme=dark&bg_color=0a0f1a&border_color=1dcf9f&icon_color=1dcf9f&title_color=1dcf9f&text_color=8899bb&hide_border=false&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LE1DENFROST&layout=compact&theme=dark&bg_color=0a0f1a&border_color=1dcf9f&title_color=1dcf9f&text_color=8899bb&hide_border=false&langs_count=8"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LE1DENFROST&show_icons=true&theme=dark&bg_color=0a0f1a&border_color=1dcf9f&icon_color=1dcf9f&title_color=1dcf9f&text_color=8899bb&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LE1DENFROST&layout=compact&theme=dark&bg_color=0a0f1a&border_color=1dcf9f&title_color=1dcf9f&text_color=8899bb&langs_count=8"/>
 
 <br/>
 
