@@ -12,7 +12,7 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=LE1DENFROST&color=1dcf9f&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/LE1DENFROST?style=flat-square&color=1dcf9f&labelColor=0a0f1a&label=Followers)](https://github.com/LE1DENFROST)
+[![GitHub followers](https://img.shields.io/github/followers/LE1DENFROST?style=flat-square&color=1dcf9f&labelColor=161b22)](https://github.com/LE1DENFROST)
 
 </div>
 
