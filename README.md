@@ -24,7 +24,7 @@
 const ejder = {
   role     : ["Geomatics Engineer", "Full-Stack Developer"],
   location : "Kahramanmaraş, Türkiye — 37°34'N / 36°56'E",
-  work     : "Dulkadiroğlu Belediyesi · Municipal GIS & Software",
+  work     : "Freelancer · Municipal GIS & Software",
   focus    : ["Spatial Web Applications", "Workflow Automation", "Infrastructure"],
   stack    : {
     backend  : ["Node.js", "FastAPI", "PostgreSQL", "PostGIS"],
