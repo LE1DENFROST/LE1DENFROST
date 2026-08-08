@@ -101,7 +101,7 @@ const ejder = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ejder_Erdoğan-0a0f1a?style=for-the-badge&logo=linkedin&logoColor=1dcf9f&labelColor=0a0f1a&color=1dcf9f)](https://www.linkedin.com/in/ejdererdogan/)
-[![Blog](https://img.shields.io/badge/Blog-leidenfrost.com.tr-0a0f1a?style=for-the-badge&logo=hashnode&logoColor=1dcf9f&labelColor=0a0f1a&color=1dcf9f)](https://leidenfrost.com.tr)
+[![Blog](https://img.shields.io/badge/Blog-le1denfrost.com-0a0f1a?style=for-the-badge&logo=hashnode&logoColor=1dcf9f&labelColor=0a0f1a&color=1dcf9f)](https://le1denfrost.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LE1DENFROST-0a0f1a?style=for-the-badge&logo=github&logoColor=1dcf9f&labelColor=0a0f1a&color=1dcf9f)](https://github.com/LE1DENFROST)
 
 </div>
